@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 09 11:26:16 EEST 2023","Mon Oct 09 11:26:22 EEST 2023","6800","Google Chrome","motionelements.spec.ts","MotionElements","","","Sign up with invalid data",""
+"passed","Mon Oct 09 11:26:32 EEST 2023","Mon Oct 09 11:26:40 EEST 2023","8050","Google Chrome","motionelements.spec.ts","MotionElements","","","Change language by using footer's select",""
+"passed","Mon Oct 09 11:26:40 EEST 2023","Mon Oct 09 11:26:48 EEST 2023","7436","Google Chrome","motionelements.spec.ts","MotionElements","","","Search Functionality",""
+"passed","Mon Oct 09 11:26:05 EEST 2023","Mon Oct 09 11:26:16 EEST 2023","10403","Google Chrome","motionelements.spec.ts","MotionElements","","","Sign in with valid data",""
+"passed","Mon Oct 09 11:26:22 EEST 2023","Mon Oct 09 11:26:32 EEST 2023","9967","Google Chrome","motionelements.spec.ts","MotionElements","","","Use the same email twice for registration",""
