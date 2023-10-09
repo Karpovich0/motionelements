@@ -46,11 +46,10 @@ jobs:
                   repository: Karpovich0/motionelements # Replace with the target repository's owner and name
                   ref: allure-report # Replace with the branch where you want to push the report
 
-            - name: Download Allure report artifact
-              uses: actions/download-artifact@v2
-              with:
-                  name: allure-report
-                  path: allure-report
+            - name: Copy Allure report files to target repository
+              run: |
+                  cp -r ./* .
+              continue-on-error: true
 
             - name: Commit and push Allure report
               run: |
